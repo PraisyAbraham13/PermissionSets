@@ -6,6 +6,6 @@
     <masterLabel>ChicagoContract</masterLabel>
     <recordFilter>ContractTerm=12</recordFilter>
     <targetEntity>Contract</targetEntity>
-    <userCriteria>$User.City=&apos;Chicago&apos;</userCriteria>
+    <userCriteria>$User.Department=&apos;Sales&apos;</userCriteria>
     <version>1</version>
 </RestrictionRule>
